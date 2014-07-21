@@ -1,3 +1,3 @@
 module ActiveAdmin
-  VERSION = '1.0.0 | Switchbox, Inc.'
+  VERSION = '1.0.0.switchbox'
 end
