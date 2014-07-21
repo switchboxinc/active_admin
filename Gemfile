@@ -14,7 +14,6 @@ gem 'cancan'
 gem 'devise'
 gem 'draper'
 gem 'pundit'
-gem 'pry'
 
 # Utility gems used in both development & test environments
 gem 'rake', require: false
